@@ -1,0 +1,15 @@
+C:\Users\wubxb\source\repos\ConvertHex\bin\Debug\net6.0\ConvertHex.exe
+C:\Users\wubxb\source\repos\ConvertHex\bin\Debug\net6.0\ConvertHex.deps.json
+C:\Users\wubxb\source\repos\ConvertHex\bin\Debug\net6.0\ConvertHex.runtimeconfig.json
+C:\Users\wubxb\source\repos\ConvertHex\bin\Debug\net6.0\ConvertHex.dll
+C:\Users\wubxb\source\repos\ConvertHex\bin\Debug\net6.0\ConvertHex.pdb
+C:\Users\wubxb\source\repos\ConvertHex\obj\Debug\net6.0\ConvertHex.csproj.AssemblyReference.cache
+C:\Users\wubxb\source\repos\ConvertHex\obj\Debug\net6.0\ConvertHex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wubxb\source\repos\ConvertHex\obj\Debug\net6.0\ConvertHex.AssemblyInfoInputs.cache
+C:\Users\wubxb\source\repos\ConvertHex\obj\Debug\net6.0\ConvertHex.AssemblyInfo.cs
+C:\Users\wubxb\source\repos\ConvertHex\obj\Debug\net6.0\ConvertHex.csproj.CoreCompileInputs.cache
+C:\Users\wubxb\source\repos\ConvertHex\obj\Debug\net6.0\ConvertHex.dll
+C:\Users\wubxb\source\repos\ConvertHex\obj\Debug\net6.0\refint\ConvertHex.dll
+C:\Users\wubxb\source\repos\ConvertHex\obj\Debug\net6.0\ConvertHex.pdb
+C:\Users\wubxb\source\repos\ConvertHex\obj\Debug\net6.0\ConvertHex.genruntimeconfig.cache
+C:\Users\wubxb\source\repos\ConvertHex\obj\Debug\net6.0\ref\ConvertHex.dll
